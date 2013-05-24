@@ -4,3 +4,5 @@ supervisor
 libc-dev-bin
 libc6-dev
 python-dev
+python-virtualenv
+virtualenvwrapper
